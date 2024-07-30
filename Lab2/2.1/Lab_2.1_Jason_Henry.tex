@@ -57,6 +57,25 @@
 		\vspace*{1.5in}
 	\end{titlepage}
 	
+	\nchapter{Characterising MOSFET; I-V Curve}
+	
+	\nsection{Design Objective}
+	In this lab, we introduce ourselves to the MOSFET, we characterise its function $V_{DS}$ and $I_D$ curve; related to Triode, Threshold, and Saturation.
+	\begingroup
+	\renewcommand{\cleardoublepage}{}
+	\renewcommand{\clearpage}{}
+	\nsection{Circuit Design Outline}
+	\endgroup
+	With an NMOS (2N7000) Transistor in series from Voltage Input $V_{DD}=12V$ to a resistor ($R_D=100\Omega$), the voltage drop in $V_{DS}=V_D-V_S$, to ground. In the Gate $V_G$ over the capacitor of the MOSFET; in series with a resistor ($R_G=1k\Omega$), being supplied with it's own voltage source; $V_{GG}$.
+	\begin{figure}[hp!]
+		\centering
+		\caption{\centering Series R + Diode}
+		\subfloat[\centering LTSpice + Rudimentary Schematic Series RD ($499\Omega$) Circuit]{\includegraphics[width=9cm]{499 resistor circuit sim}}\hfil
+		\subfloat[\centering LTSpice + Rudimentary Schematic Series RD ($100\Omega$) Circuit]{\includegraphics[width=9cm]{2N7000 Transistor Loaded}}
+	\end{figure}
+
+	
+	
 	\newpage
 	\nchapter{Addendum Pages}
 	\begin{figure}[hp!]

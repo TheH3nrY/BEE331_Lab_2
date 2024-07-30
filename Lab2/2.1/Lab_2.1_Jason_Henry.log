@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  29 JUL 2024 06:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  29 JUL 2024 06:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -595,52 +595,344 @@ Package pdftex.def Info: W-Logo_Purple_RGB.png  used on input line 41.
 
 {C:/Users/dinhj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./W-Logo_Pur
 ple_RGB.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 61.
+
+
+! LaTeX Error: File `499 resistor circuit sim' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 ...hics[width=9cm]{499 resistor circuit sim}}
+                                                  \hfil
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (10.86127pt too wide) in paragraph at lines 72--72
+ []\OT1/cmr/m/n/8 (a) 
+ []
+
+
+Overfull \hbox (13.57242pt too wide) in paragraph at lines 72--72
+ |\OT1/cmr/m/n/8 LT- 
+ []
+
+
+Overfull \hbox (19.36139pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 Spice 
+ []
+
+
+Overfull \hbox (6.6112pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 + 
+ []
+
+
+Overfull \hbox (20.89197pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 Rudi- 
+ []
+
+
+Overfull \hbox (18.41693pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 men- 
+ []
+
+
+Overfull \hbox (15.35439pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 tary 
+ []
+
+
+Overfull \hbox (37.5422pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 Schematic 
+ []
+
+
+Overfull \hbox (11.3335pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 Se- 
+ []
+
+
+Overfull \hbox (12.80435pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 ries 
+ []
+
+
+Overfull \hbox (12.74185pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 RD 
+ []
+
+
+Overfull \hbox (25.50037pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 ($499
+$) 
+ []
+
+
+Overfull \hbox (14.64604pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 Cir- 
+ []
+
+
+Overfull \hbox (14.16687pt too wide) in paragraph at lines 72--72
+ \OT1/cmr/m/n/8 cuit| 
+ []
+
+
+! LaTeX Error: File `100 resistor circuit sim' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 ...hics[width=9cm]{100 resistor circuit sim}}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (11.3335pt too wide) in paragraph at lines 73--73
+ []\OT1/cmr/m/n/8 (b) 
+ []
+
+
+Overfull \hbox (13.57242pt too wide) in paragraph at lines 73--73
+ |\OT1/cmr/m/n/8 LT- 
+ []
+
+
+Overfull \hbox (19.36139pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 Spice 
+ []
+
+
+Overfull \hbox (6.6112pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 + 
+ []
+
+
+Overfull \hbox (20.89197pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 Rudi- 
+ []
+
+
+Overfull \hbox (18.41693pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 men- 
+ []
+
+
+Overfull \hbox (15.35439pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 tary 
+ []
+
+
+Overfull \hbox (37.5422pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 Schematic 
+ []
+
+
+Overfull \hbox (11.3335pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 Se- 
+ []
+
+
+Overfull \hbox (12.80435pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 ries 
+ []
+
+
+Overfull \hbox (12.74185pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 RD 
+ []
+
+
+Overfull \hbox (25.50037pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 ($100
+$) 
+ []
+
+
+Overfull \hbox (14.64604pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 Cir- 
+ []
+
+
+Overfull \hbox (14.16687pt too wide) in paragraph at lines 73--73
+ \OT1/cmr/m/n/8 cuit| 
+ []
+
+
+! LaTeX Error: File `499 resistor circuit irl' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 ...hics[width=9cm]{499 resistor circuit irl}}
+                                                  \hfil
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (10.38904pt too wide) in paragraph at lines 78--78
+ []\OT1/cmr/m/n/8 (c) 
+ []
+
+
+Overfull \hbox (11.3335pt too wide) in paragraph at lines 78--78
+ |\OT1/cmr/m/n/8 Se- 
+ []
+
+
+Overfull \hbox (12.80435pt too wide) in paragraph at lines 78--78
+ \OT1/cmr/m/n/8 ries 
+ []
+
+
+Overfull \hbox (12.74185pt too wide) in paragraph at lines 78--78
+ \OT1/cmr/m/n/8 RD 
+ []
+
+
+Overfull \hbox (14.64604pt too wide) in paragraph at lines 78--78
+ \OT1/cmr/m/n/8 Cir- 
+ []
+
+
+Overfull \hbox (14.16687pt too wide) in paragraph at lines 78--78
+ \OT1/cmr/m/n/8 cuit 
+ []
+
+
+Overfull \hbox (18.88916pt too wide) in paragraph at lines 78--78
+ \OT1/cmr/m/n/8 499
+$| 
+ []
+
+
+! LaTeX Error: File `100 resistor circuit irl' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 ...hics[width=9cm]{100 resistor circuit irl}}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (11.3335pt too wide) in paragraph at lines 79--79
+ []\OT1/cmr/m/n/8 (d) 
+ []
+
+
+Overfull \hbox (11.3335pt too wide) in paragraph at lines 79--79
+ |\OT1/cmr/m/n/8 Se- 
+ []
+
+
+Overfull \hbox (12.80435pt too wide) in paragraph at lines 79--79
+ \OT1/cmr/m/n/8 ries 
+ []
+
+
+Overfull \hbox (12.74185pt too wide) in paragraph at lines 79--79
+ \OT1/cmr/m/n/8 RD 
+ []
+
+
+Overfull \hbox (14.64604pt too wide) in paragraph at lines 79--79
+ \OT1/cmr/m/n/8 Cir- 
+ []
+
+
+Overfull \hbox (14.16687pt too wide) in paragraph at lines 79--79
+ \OT1/cmr/m/n/8 cuit 
+ []
+
+
+Overfull \hbox (18.88916pt too wide) in paragraph at lines 79--79
+ \OT1/cmr/m/n/8 100
+$| 
+ []
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.67 	\newpage
+l.82 	\newpage
                [1
 
+] [2
+
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-<2053eee52228f604772553bcfd001b6a2d3d0be0.png, id=27, 1852.9225pt x 1084.05pt>
+<2053eee52228f604772553bcfd001b6a2d3d0be0.png, id=45, 1852.9225pt x 1084.05pt>
 File: 2053eee52228f604772553bcfd001b6a2d3d0be0.png Graphic file (type png)
 <use 2053eee52228f604772553bcfd001b6a2d3d0be0.png>
 Package pdftex.def Info: 2053eee52228f604772553bcfd001b6a2d3d0be0.png  used on 
-input line 75.
+input line 97.
 (pdftex.def)             Requested size: 569.05515pt x 332.92574pt.
-[2 <./2053eee52228f604772553bcfd001b6a2d3d0be0.png>] (Lab_2.1_Jason_Henry.aux)
+[3 <./2053eee52228f604772553bcfd001b6a2d3d0be0.png>] (Lab_2.1_Jason_Henry.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `Lab_2.1_Jason_Henry.out' has not changed.
-(rerunfilecheck)             Checksum: DD2DB65DF3218DFE670352ACC7A19727;237.
+
+
+Package rerunfilecheck Warning: File `Lab_2.1_Jason_Henry.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Lab_2.1_Jason_Henry.out':
+(rerunfilecheck)             Before: DD2DB65DF3218DFE670352ACC7A19727;237
+(rerunfilecheck)             After:  69D38286C6B2407F63E7DD2FD177A616;757.
  ) 
 Here is how much of TeX's memory you used:
- 14548 strings out of 474486
- 235549 string characters out of 5743755
- 1927542 words of memory out of 5000000
- 36646 multiletter control sequences out of 15000+600000
- 563594 words of font info for 54 fonts, out of 8000000 for 9000
+ 14697 strings out of 474486
+ 240009 string characters out of 5743755
+ 1932542 words of memory out of 5000000
+ 36778 multiletter control sequences out of 15000+600000
+ 566022 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,10n,107p,277b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\dinhj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1000.pk><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dinhj/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/dinhj/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/dinhj/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Lab_2.1_Jason_Henry.pdf (3 pages, 3714894 bytes).
+ 94i,12n,107p,369b,522s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{figure.caption.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+ <C:\Users\dinhj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm10
+00.pk><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/dinhj/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/dinhj/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dinhj/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/di
+nhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/U
+sers/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmti12.pfb>
+Output written on Lab_2.1_Jason_Henry.pdf (4 pages, 3757401 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
  27 words of extra memory for PDF output out of 10000 (max. 10000000)
 
