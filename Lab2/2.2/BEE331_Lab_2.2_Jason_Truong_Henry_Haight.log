@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.14)  29 JUL 2024 20:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.14)  30 JUL 2024 19:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -586,7 +586,7 @@ Package hyperref Info: Link coloring OFF on input line 37.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<W-Logo_Purple_RGB.png, id=21, 108.405pt x 72.9927pt>
+<W-Logo_Purple_RGB.png, id=25, 108.405pt x 72.9927pt>
 File: W-Logo_Purple_RGB.png Graphic file (type png)
 <use W-Logo_Purple_RGB.png>
 Package pdftex.def Info: W-Logo_Purple_RGB.png  used on input line 41.
@@ -601,6 +601,21 @@ ple_RGB.png>]
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 61.
 
+<SpiceSim.png, id=37, 1438.6247pt x 703.87968pt>
+File: SpiceSim.png Graphic file (type png)
+<use SpiceSim.png>
+Package pdftex.def Info: SpiceSim.png  used on input line 67.
+(pdftex.def)             Requested size: 256.0748pt x 125.28589pt.
+<VoltageReading.jpg, id=38, 3035.34pt x 4047.12pt>
+File: VoltageReading.jpg Graphic file (type jpg)
+<use VoltageReading.jpg>
+Package pdftex.def Info: VoltageReading.jpg  used on input line 68.
+(pdftex.def)             Requested size: 113.81102pt x 151.72957pt.
+<CircuitImage.jpg, id=39, 3035.34pt x 4047.12pt>
+File: CircuitImage.jpg Graphic file (type jpg)
+<use CircuitImage.jpg>
+Package pdftex.def Info: CircuitImage.jpg  used on input line 73.
+(pdftex.def)             Requested size: 170.71652pt x 227.56348pt.
 
 
 
@@ -608,13 +623,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.65 	\newpage
+l.75 	\newpage
                [1
 
-]
+ <./SpiceSim.png> <./VoltageReading.jpg> <./CircuitImage.jpg>]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 67.
+(hyperref)                be the same. Added a new anchor on input line 77.
 
 
 
@@ -623,26 +638,18 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
-
-
-Package rerunfilecheck Warning: File `BEE331_Lab_2.2_Jason_Truong_Henry_Haight.
-out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `BEE331_Lab_2.2_Jason_Truong_Henry_H
-aight.out':
-(rerunfilecheck)             Before: D100824B852C9E285233C684B6BA6DFA;777
-(rerunfilecheck)             After:  6B3AA05B4FAC00C77ED474881F66D17A;947.
+Package rerunfilecheck Info: File `BEE331_Lab_2.2_Jason_Truong_Henry_Haight.out
+' has not changed.
+(rerunfilecheck)             Checksum: D20205D9E1CBEF13B346A00D454E318A;953.
  ) 
 Here is how much of TeX's memory you used:
- 14609 strings out of 473903
- 235697 string characters out of 5726579
- 1929908 words of memory out of 5000000
- 37292 multiletter control sequences out of 15000+600000
- 563749 words of font info for 55 fonts, out of 8000000 for 9000
+ 14667 strings out of 473903
+ 236890 string characters out of 5726579
+ 1931908 words of memory out of 5000000
+ 37344 multiletter control sequences out of 15000+600000
+ 564048 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,5n,107p,667b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,12n,107p,667b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\henry\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Users/henry/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/henry/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -652,11 +659,15 @@ eX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/henry/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/henry/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/henry/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/
-henry/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on BEE331_Lab_2.2_Jason_Truong_Henry_Haight.pdf (3 pages, 116178
- bytes).
+henry/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:
+/Users/henry/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.
+pfb><C:/Users/henry/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><C:/Users/henry/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmti12.pfb>
+Output written on BEE331_Lab_2.2_Jason_Truong_Henry_Haight.pdf (3 pages, 119342
+0 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 69 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -60,14 +60,26 @@
 	\nchapter{MOSFET Bias Circuit}
 	\nsection{Design Objective} In this lab we bias a MOSFET for use in both saturation and triode regions. This allows us to maintain a stable DC operating point.
 	\nsection{Circuit Design Outline}
-	Using our calculated resistors of $38.2k\Omega$ and $95.3k\Omega$ combined with our given resistance values of $500\Omega$ and $1k\Omega$ and connecting them to our NMOS transistor in the configureation shown below we can bias our circuit so that the current across the $500\Omega$ and $1k\Omega$ ($I_D$) is 10mA. By inputting a voltage of 15V at the leg of the $500\Omega$ resistor we can achive 10mA across the resistors.
-	
+	Using our calculated resistors of $38.2k\Omega$ and $95.3k\Omega$ combined with our given resistance values of $500\Omega$ and $200\Omega$ and connecting them to our NMOS transistor in the configureation shown below we can bias our circuit so that the current across the $500\Omega$ and $200\Omega$ ($I_D$) is 10mA. By inputting a voltage of 15V at the leg of the $500\Omega$ resistor we can achive 10mA across the resistors.
+	\begin{figure}[hp!] %140, 
+		\centering
+		\caption{Bias Circuit}
+		\subfloat[Bias Circuit Sim]{\includegraphics[width=9cm]{SpiceSim}}
+		\subfloat[Bias Circuit Measurement]{\includegraphics[width=4cm]{VoltageReading}}
+	\end{figure}
+	\begin{figure}[hp!]
+		\ContinuedFloat
+		\centering
+		\subfloat[\centering Bias Circuit Image]{\includegraphics[width=6cm]{CircuitImage}}\hfil
+	\end{figure}
 	\newpage
 	\nsection{Measurement and Simulation Results}
 	\nsubsection{Analysis}
 	\begin{itemize}
 		\item \textbf{1. Calculate expected $V_G$, $I_D$ and $V_{DS}$}
-		\subitem Given
+		\subitem Using $V_{GS}$ = $V_G$	- $V_S$ and a voltage divider accross the $38.2k\Omega$ and $95.3k\Omega$ resistors we find that $V_G$ = 10.708V.
+		\subitem Using the equation $I_D = k_n(V_{GS} - V_T)^2$ we can solve for $I_D$ obtaining $I_D = 10.39mA$
+		\subitem $V_{DS}$ is therefore found using $V_{DS}$ = $V_D$	- $V_S$ where $V_D$ is found using $I_D$, $V_{DD},$ and the $500\Omega$ resistor. This gives us $V_{DS} = $
 		\item \textbf{2. Compare to simulated results for $V_G$, $I_D$ and $V_{DS}$}
 		\subitem The simulated results for $V_G$, $I_D$ and $V_{DS}$ all line up with what we observed during our measurements. The \% difference between the calculated and simulated values were about 
 		\item \textbf{3. Comment on descrepancies}
