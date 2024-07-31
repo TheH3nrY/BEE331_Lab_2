@@ -15,7 +15,7 @@
 \usepackage[compact]{titlesec}
 \usepackage{float}
 \usepackage[left=0.5cm,right=0.5cm,top=0.5cm,bottom=0.5cm]{geometry}
-\graphicspath{{Report/Part 1.1}{Report/Part 1.1/Series Forward-Bias Diode Circuit}{Report/Part 1.2}{Report/Part 1.2/Series Reverse-breakdown Zener Diode Circuit}{Report/Part 1.3}{Report/Part 1.3/Parallel Opposing Polarities Diode Circuit}{Report/Part 1.3/Series Opposing Polarities Zener Diode Circuit}{Report/Part 1.4}{Report/Part 1.4/Full Rectifier circuits/Bridge With Filter}{Report/Part 1.4/Full Rectifier circuits/Bridge With Zener}{Report/Part 1.4/Full Rectifier circuits/Full Wave Bridge}}
+\graphicspath{}
 
 \newcommand*{\nchapter}[1]{%
 	\chapter*{#1}%
@@ -65,12 +65,12 @@
 		\centering
 		\caption{Bias Circuit}
 		\subfloat[Bias Circuit Sim]{\includegraphics[width=9cm]{SpiceSim}}
-		\subfloat[Bias Circuit Measurement]{\includegraphics[width=4cm]{VoltageReading}}
 	\end{figure}
 	\begin{figure}[hp!]
 		\ContinuedFloat
 		\centering
 		\subfloat[\centering Bias Circuit Image]{\includegraphics[width=6cm]{CircuitImage}}\hfil
+		\subfloat[Bias Circuit Measurement]{\includegraphics[width=6cm]{VoltageReading}}
 	\end{figure}
 	\newpage
 	\nsection{Measurement and Simulation Results}
@@ -81,11 +81,12 @@
 		\subitem Using the equation $I_D = k_n(V_{GS} - V_T)^2$ we can solve for $I_D$ obtaining $I_D = 10.84mA$ using $k_n = 0.0011$ and $V_T = 1.6$
 		\subitem $V_{DS}$ is therefore found using $V_{DS}$ = $V_D$	- $V_S$ where $V_D$ is found using $I_D$, $V_{DD},$ and the $500\Omega$ resistor. This gives us $V_{DS} = 7.411V$
 		\item \textbf{2. Compare to simulated results for $V_G$, $I_D$ and $V_{DS}$}
-		\subitem The simulated results for $V_G$, $I_D$ and $V_{DS}$ all line up with what we observed during our measurements. The \% difference between the calculated and simulated values were about 
-		\item \textbf{3. Comment on descrepancies}
-		\subitem
+		\subitem The simulated results for $V_G$, $I_D$ and $V_{DS}$ all line up with what we observed during our measurements. The \% difference between the calculated and simulated values are found at a 2\% difference (10.84mA vs 11.04mA).
+		\item \textbf{3. Comment on discrepancies}
+		\subitem Discrepancies appear from the natural impedance of the NMOS transistor; and the transience of the Gate-Voltage causing a natural and slow rise. As Semiconducting Materials in real life are difficult to keep at a consistent voltage due to them being VERY sensitive and dependent on temperature.
+		\subitem 
 	\end{itemize}
 	
 	\nsection{Summary \& Conclusions}
-	
+	In this lab, we analysed; characterised; and designed with an NMOSFET transistor for the $I_D$ over both the $V_{GS}$ and $V_{DS}$ region, but also the biasing effects of voltage-dividing over $V_G$
 	\end{document}
