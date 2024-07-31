@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  29 JUL 2024 06:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  31 JUL 2024 03:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -586,7 +586,7 @@ Package hyperref Info: Link coloring OFF on input line 37.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<W-Logo_Purple_RGB.png, id=11, 108.405pt x 72.9927pt>
+<W-Logo_Purple_RGB.png, id=30, 108.405pt x 72.9927pt>
 File: W-Logo_Purple_RGB.png Graphic file (type png)
 <use W-Logo_Purple_RGB.png>
 Package pdftex.def Info: W-Logo_Purple_RGB.png  used on input line 41.
@@ -597,276 +597,26 @@ Package pdftex.def Info: W-Logo_Purple_RGB.png  used on input line 41.
 ple_RGB.png>]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 61.
+(hyperref)                be the same. Added a new anchor on input line 62.
+
+<Spice/Spice Sim Sweep.png, id=42, 1438.6247pt x 729.47531pt>
+File: Spice/Spice Sim Sweep.png Graphic file (type png)
+<use Spice/Spice Sim Sweep.png>
+Package pdftex.def Info: Spice/Spice Sim Sweep.png  used on input line 74.
+(pdftex.def)             Requested size: 256.0748pt x 129.84174pt.
+<ID vs VGS Sweep.png, id=43, 1440.88312pt x 736.25063pt>
+File: ID vs VGS Sweep.png Graphic file (type png)
+<use ID vs VGS Sweep.png>
+Package pdftex.def Info: ID vs VGS Sweep.png  used on input line 75.
+(pdftex.def)             Requested size: 256.0748pt x 130.84549pt.
+<2N7000 Transistor Loaded.jpg, id=44, 2276.505pt x 1044.90375pt>
+File: 2N7000 Transistor Loaded.jpg Graphic file (type jpg)
+<use 2N7000 Transistor Loaded.jpg>
+Package pdftex.def Info: 2N7000 Transistor Loaded.jpg  used on input line 80.
+(pdftex.def)             Requested size: 512.1496pt x 235.07726pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--82
 
-
-! LaTeX Error: File `499 resistor circuit sim' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.72 ...hics[width=9cm]{499 resistor circuit sim}}
-                                                  \hfil
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (10.86127pt too wide) in paragraph at lines 72--72
- []\OT1/cmr/m/n/8 (a) 
- []
-
-
-Overfull \hbox (13.57242pt too wide) in paragraph at lines 72--72
- |\OT1/cmr/m/n/8 LT- 
- []
-
-
-Overfull \hbox (19.36139pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 Spice 
- []
-
-
-Overfull \hbox (6.6112pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 + 
- []
-
-
-Overfull \hbox (20.89197pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 Rudi- 
- []
-
-
-Overfull \hbox (18.41693pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 men- 
- []
-
-
-Overfull \hbox (15.35439pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 tary 
- []
-
-
-Overfull \hbox (37.5422pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 Schematic 
- []
-
-
-Overfull \hbox (11.3335pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 Se- 
- []
-
-
-Overfull \hbox (12.80435pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 ries 
- []
-
-
-Overfull \hbox (12.74185pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 RD 
- []
-
-
-Overfull \hbox (25.50037pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 ($499
-$) 
- []
-
-
-Overfull \hbox (14.64604pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 Cir- 
- []
-
-
-Overfull \hbox (14.16687pt too wide) in paragraph at lines 72--72
- \OT1/cmr/m/n/8 cuit| 
- []
-
-
-! LaTeX Error: File `100 resistor circuit sim' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.73 ...hics[width=9cm]{100 resistor circuit sim}}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (11.3335pt too wide) in paragraph at lines 73--73
- []\OT1/cmr/m/n/8 (b) 
- []
-
-
-Overfull \hbox (13.57242pt too wide) in paragraph at lines 73--73
- |\OT1/cmr/m/n/8 LT- 
- []
-
-
-Overfull \hbox (19.36139pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 Spice 
- []
-
-
-Overfull \hbox (6.6112pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 + 
- []
-
-
-Overfull \hbox (20.89197pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 Rudi- 
- []
-
-
-Overfull \hbox (18.41693pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 men- 
- []
-
-
-Overfull \hbox (15.35439pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 tary 
- []
-
-
-Overfull \hbox (37.5422pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 Schematic 
- []
-
-
-Overfull \hbox (11.3335pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 Se- 
- []
-
-
-Overfull \hbox (12.80435pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 ries 
- []
-
-
-Overfull \hbox (12.74185pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 RD 
- []
-
-
-Overfull \hbox (25.50037pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 ($100
-$) 
- []
-
-
-Overfull \hbox (14.64604pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 Cir- 
- []
-
-
-Overfull \hbox (14.16687pt too wide) in paragraph at lines 73--73
- \OT1/cmr/m/n/8 cuit| 
- []
-
-
-! LaTeX Error: File `499 resistor circuit irl' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.78 ...hics[width=9cm]{499 resistor circuit irl}}
-                                                  \hfil
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (10.38904pt too wide) in paragraph at lines 78--78
- []\OT1/cmr/m/n/8 (c) 
- []
-
-
-Overfull \hbox (11.3335pt too wide) in paragraph at lines 78--78
- |\OT1/cmr/m/n/8 Se- 
- []
-
-
-Overfull \hbox (12.80435pt too wide) in paragraph at lines 78--78
- \OT1/cmr/m/n/8 ries 
- []
-
-
-Overfull \hbox (12.74185pt too wide) in paragraph at lines 78--78
- \OT1/cmr/m/n/8 RD 
- []
-
-
-Overfull \hbox (14.64604pt too wide) in paragraph at lines 78--78
- \OT1/cmr/m/n/8 Cir- 
- []
-
-
-Overfull \hbox (14.16687pt too wide) in paragraph at lines 78--78
- \OT1/cmr/m/n/8 cuit 
- []
-
-
-Overfull \hbox (18.88916pt too wide) in paragraph at lines 78--78
- \OT1/cmr/m/n/8 499
-$| 
- []
-
-
-! LaTeX Error: File `100 resistor circuit irl' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.79 ...hics[width=9cm]{100 resistor circuit irl}}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (11.3335pt too wide) in paragraph at lines 79--79
- []\OT1/cmr/m/n/8 (d) 
- []
-
-
-Overfull \hbox (11.3335pt too wide) in paragraph at lines 79--79
- |\OT1/cmr/m/n/8 Se- 
- []
-
-
-Overfull \hbox (12.80435pt too wide) in paragraph at lines 79--79
- \OT1/cmr/m/n/8 ries 
- []
-
-
-Overfull \hbox (12.74185pt too wide) in paragraph at lines 79--79
- \OT1/cmr/m/n/8 RD 
- []
-
-
-Overfull \hbox (14.64604pt too wide) in paragraph at lines 79--79
- \OT1/cmr/m/n/8 Cir- 
- []
-
-
-Overfull \hbox (14.16687pt too wide) in paragraph at lines 79--79
- \OT1/cmr/m/n/8 cuit 
- []
-
-
-Overfull \hbox (18.88916pt too wide) in paragraph at lines 79--79
- \OT1/cmr/m/n/8 100
-$| 
  []
 
 
@@ -874,23 +624,84 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.82 	\newpage
+l.83 	\newpage
                [1
 
-] [2
+ <./Spice/Spice Sim Sweep.png> <./ID vs VGS Sweep.png> <./2N7000 Transistor Loa
+ded.jpg>]
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 85.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.101 		\subfloat
+                 [$V_{GS}$ vs $I_D$ Graph]{\includegraphics[width=9cm]{V_GS ...
+<V_GS vs I_D Graph.png, id=63, 664.4825pt x 410.53375pt>
+File: V_GS vs I_D Graph.png Graphic file (type png)
+<use V_GS vs I_D Graph.png>
+Package pdftex.def Info: V_GS vs I_D Graph.png  used on input line 101.
+(pdftex.def)             Requested size: 256.0748pt x 158.20946pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.102 		\subfloat
+                 [Lab 2 2-2A-I Table]{\includegraphics[width=9cm]{Lab 2 2-2A...
+<Lab 2 2-2A-I Table.png, id=64, 380.92313pt x 258.21469pt>
+File: Lab 2 2-2A-I Table.png Graphic file (type png)
+<use Lab 2 2-2A-I Table.png>
+Package pdftex.def Info: Lab 2 2-2A-I Table.png  used on input line 102.
+(pdftex.def)             Requested size: 256.0748pt x 173.59pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.107 		\subfloat
+                 [$I_D$ vs $V_DS$]{\includegraphics[width=9cm]{I_D vs V_DS}}
+<I_D vs V_DS.png, id=65, 602.25pt x 372.39125pt>
+File: I_D vs V_DS.png Graphic file (type png)
+<use I_D vs V_DS.png>
+Package pdftex.def Info: I_D vs V_DS.png  used on input line 107.
+(pdftex.def)             Requested size: 256.0748pt x 158.34657pt.
+<Lab 2-2-2A-II Table.png, id=66, 379.4175pt x 389.20406pt>
+File: Lab 2-2-2A-II Table.png Graphic file (type png)
+<use Lab 2-2-2A-II Table.png>
+Package pdftex.def Info: Lab 2-2-2A-II Table.png  used on input line 108.
+(pdftex.def)             Requested size: 256.0748pt x 262.68358pt.
+
+[2 <./V_GS vs I_D Graph.png> <./Lab 2 2-2A-I Table.png> <./I_D vs V_DS.png> <./
+Lab 2-2-2A-II Table.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.116 		\subfloat
+                 [\centering Lab Design   Calculations]{\includegraphics[wid...
+<Theoretical Calculation of Ideal Diode.jpg, id=83, 518.93875pt x 422.57875pt>
+File: Theoretical Calculation of Ideal Diode.jpg Graphic file (type jpg)
+<use Theoretical Calculation of Ideal Diode.jpg>
+Package pdftex.def Info: Theoretical Calculation of Ideal Diode.jpg  used on in
+put line 116.
+(pdftex.def)             Requested size: 483.69684pt x 393.90334pt.
+[3
+
+ <./Theoretical Calculation of Ideal Diode.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
-<2053eee52228f604772553bcfd001b6a2d3d0be0.png, id=45, 1852.9225pt x 1084.05pt>
-File: 2053eee52228f604772553bcfd001b6a2d3d0be0.png Graphic file (type png)
-<use 2053eee52228f604772553bcfd001b6a2d3d0be0.png>
-Package pdftex.def Info: 2053eee52228f604772553bcfd001b6a2d3d0be0.png  used on 
-input line 97.
-(pdftex.def)             Requested size: 569.05515pt x 332.92574pt.
-[3 <./2053eee52228f604772553bcfd001b6a2d3d0be0.png>] (Lab_2.1_Jason_Henry.aux)
+<IMG_20240705_171509323.jpg, id=88, 4095.3pt x 3083.52pt>
+File: IMG_20240705_171509323.jpg Graphic file (type jpg)
+<use IMG_20240705_171509323.jpg>
+Package pdftex.def Info: IMG_20240705_171509323.jpg  used on input line 126.
+(pdftex.def)             Requested size: 569.05515pt x 428.44336pt.
+[4 <./IMG_20240705_171509323.jpg>] (Lab_2.1_Jason_Henry.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -902,37 +713,39 @@ Package rerunfilecheck Warning: File `Lab_2.1_Jason_Henry.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Lab_2.1_Jason_Henry.out':
-(rerunfilecheck)             Before: DD2DB65DF3218DFE670352ACC7A19727;237
-(rerunfilecheck)             After:  69D38286C6B2407F63E7DD2FD177A616;757.
+(rerunfilecheck)             Before: 279C7C54EDCD973A13D662EF85C26255;1141
+(rerunfilecheck)             After:  64CC74860ECEDC77BFB23EDBAA0FC285;1138.
  ) 
 Here is how much of TeX's memory you used:
- 14697 strings out of 474486
- 240009 string characters out of 5743755
- 1932542 words of memory out of 5000000
- 36778 multiletter control sequences out of 15000+600000
- 566022 words of font info for 63 fonts, out of 8000000 for 9000
+ 14681 strings out of 474486
+ 238712 string characters out of 5743755
+ 1934542 words of memory out of 5000000
+ 36758 multiletter control sequences out of 15000+600000
+ 566368 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,12n,107p,369b,522s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{figure.caption.2} has been referenced but does not 
-exist, replaced by a fixed one
-
- <C:\Users\dinhj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm10
-00.pk><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/dinhj/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/dinhj/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dinhj/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/di
-nhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/U
-sers/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmti12.pfb>
-Output written on Lab_2.1_Jason_Henry.pdf (4 pages, 3757401 bytes).
+ 94i,13n,107p,359b,525s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\dinhj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/dinhj/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/dinhj/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/dinhj/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/
+dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
+:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr7.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr8.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/dinhj/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/dinhj/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Lab_2.1_Jason_Henry.pdf (5 pages, 1352566 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 27 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 171 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -15,7 +15,7 @@
 \usepackage[compact]{titlesec}
 \usepackage{float}
 \usepackage[left=0.5cm,right=0.5cm,top=0.5cm,bottom=0.5cm]{geometry}
-\graphicspath{}
+\graphicspath{{Spice}}
 
 \newcommand*{\nchapter}[1]{%
 	\chapter*{#1}%
@@ -66,22 +66,54 @@
 	\renewcommand{\clearpage}{}
 	\nsection{Circuit Design Outline}
 	\endgroup
-	With an NMOS (2N7000) Transistor in series from Voltage Input $V_{DD}=12V$ to a resistor ($R_D=100\Omega$), the voltage drop in $V_{DS}=V_D-V_S$, to ground. In the Gate $V_G$ over the capacitor of the MOSFET; in series with a resistor ($R_G=1k\Omega$), being supplied with it's own voltage source; $V_{GG}$.
+	With an NMOS (2N7000) Transistor in series from Voltage Input $V_{DD}=12V$ to a resistor ($R_D=100\Omega$), the voltage drop in $V_{DS}=V_D-V_S$, to ground. In the Gate $V_G$ over the capacitor of the MOSFET; in series with a resistor ($R_G=1k\Omega$), being supplied with it's own voltage source; $V_{GG}$.\\\\
+	The demonstrated circuits below use a sinusoidal sweep with $V_{DD}$ and $V_{GG}$ respectively to demonstrate the $I_D$ relation over a voltage-change.
 	\begin{figure}[hp!]
 		\centering
-		\caption{\centering Series R + Diode}
-		\subfloat[\centering LTSpice + Rudimentary Schematic Series RD ($499\Omega$) Circuit]{\includegraphics[width=9cm]{499 resistor circuit sim}}\hfil
-		\subfloat[\centering LTSpice + Rudimentary Schematic Series RD ($100\Omega$) Circuit]{\includegraphics[width=9cm]{2N7000 Transistor Loaded}}
+		\caption{\centering 2N7000 NMOS}
+		\subfloat[\centering LTSpice + Rudimentary Schematic $I_D$ vs $V_{GS}$ Sweep]{\includegraphics[width=9cm]{Spice Sim Sweep}}\hfil
+		\subfloat[\centering LTSpice + Rudimentary Schematic $I_D$ vs $V_{DS}$ Sweep]{\includegraphics[width=9cm]{ID vs VGS Sweep}}
 	\end{figure}
-
+	\begin{figure}[hp!]
+		\ContinuedFloat
+		\centering
+		\subfloat[\centering 2N7000 NMOS Transistor MOSFET Circuit]{\includegraphics[width=18cm]{2N7000 Transistor Loaded}}
+	\end{figure}
 	
+	\newpage
+	\nsection{Descriptions of Measurements \& Calculations}
+	\nsubsection{Analysis}
+	\begin{itemize}
+		\item \textbf{i. Use your plot (or data) to find the value of $V_{GS}$ which just starts to produce a non-zero drain current. This is the threshold voltage $V_t$ of the MOSFET under test.}
+		\subitem See below for tables and graphs of [$I_D$ vs $V_{GS}$], and [$I_D$ vs $V_{GS}$].
+		\item \textbf{ii. How close are the measured and calculated values of $V_{DS}$ at the boundary of triode and saturation regions of the MOSFET?}
+		\subitem \textit{$V_{GS}$ vs $I_D$}: From when the current has a measurable rating ($1.8V$), saturates at a $0.6V$ difference ($2.4V$).
+ 		\subitem \textit{$V_{DS}$ vs $I_D$}: From when the current plateaus at its greatest amount ($1V$ to $1.5V$), saturates at a $.5V$ difference (@$1.5V$). Then proceeds to break the component's specifications by breaching current at around $5V$
+		\item \textbf{What model parameters of the MOSFET would you adjust (and how) to match the experimental results?}
+		\subitem To simulate the $I_D$ change over a voltage change for [Saturation] and [To $10V$] respectively, we AC-swept over a region.\\
+		Aside from the simulation-method, here is the Github link to the .lib model we used to simulate the \href{https://github.com/pepaslabs/LTSpice-parts/blob/master/parts/transistor/mosfet/nchannel/2N7000.nxp.lib}{2N7000 component}.
+		\item \textbf{Do the values of $k_n$ obtained from measurements agree with $k_n$ obtained from the model?}
+		\subitem Simply, yes; given $k_n=(\frac{I_D*2}{V_{RD}-1.6})^2$
+	\end{itemize}
+	\begin{figure}[hp!] %140, 
+		\centering
+		\caption{NMOS Circuits}
+		\subfloat[$V_{GS}$ vs $I_D$ Graph]{\includegraphics[width=9cm]{V_GS vs I_D Graph}}
+		\subfloat[Lab 2 2-2A-I Table]{\includegraphics[width=9cm]{Lab 2 2-2A-I Table}}
+	\end{figure}
+	\begin{figure}[hp!]
+		\ContinuedFloat
+		\centering
+		\subfloat[$I_D$ vs $V_DS$]{\includegraphics[width=9cm]{I_D vs V_DS}}
+		\subfloat[Lab 2 2-2A-I Table]{\includegraphics[width=9cm]{Lab 2-2-2A-II Table}}
+	\end{figure}
 	
 	\newpage
 	\nchapter{Addendum Pages}
 	\begin{figure}[hp!]
 		\centering
 		\caption{Jason Truong Addendum}
-		%\subfloat[\centering Lab Design   Calculations]{\includegraphics[width=17cm]{Theoretical Calculation of Ideal Diode}}
+		\subfloat[\centering Lab Design   Calculations]{\includegraphics[width=17cm]{Theoretical Calculation of Ideal Diode}}
 	\end{figure}
 	\newpage
 	\nsection{Bibliography}
@@ -91,6 +123,6 @@
 		\item Sedra, Adel, and Kenneth Smith. Microelectronic Circuits. S.L., Oxford Univ Press Us, 2019.
 	\end{itemize}
 	\begin{figure}[!h]
-		\subfloat[Penance.]{\includegraphics[width=\linewidth]{2053eee52228f604772553bcfd001b6a2d3d0be0}}
+		\subfloat[Keep believing in yourself.]{\includegraphics[width=\linewidth]{IMG_20240705_171509323}}
 	\end{figure}
 \end{document}
