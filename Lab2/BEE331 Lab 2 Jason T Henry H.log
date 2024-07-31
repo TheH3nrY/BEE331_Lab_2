@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  31 JUL 2024 04:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  31 JUL 2024 04:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Lab_2.1_Jason_Henry.tex
-(Lab_2.1_Jason_Henry.tex
+**"./BEE331 Lab 2 Jason T Henry H.tex"
+(BEE331 Lab 2 Jason T Henry H.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\dinhj\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -493,8 +493,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 LaTeX Warning: Unused global option(s):
     [9pt].
 
-(Lab_2.1_Jason_Henry.aux)
-\openout1 = `Lab_2.1_Jason_Henry.aux'.
+(BEE331 Lab 2 Jason T Henry H.aux)
+\openout1 = `"BEE331 Lab 2 Jason T Henry H.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
@@ -547,9 +547,9 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 37.
- (Lab_2.1_Jason_Henry.out) (Lab_2.1_Jason_Henry.out)
+ (BEE331 Lab 2 Jason T Henry H.out) (BEE331 Lab 2 Jason T Henry H.out)
 \@outlinefile=\write3
-\openout3 = `Lab_2.1_Jason_Henry.out'.
+\openout3 = `"BEE331 Lab 2 Jason T Henry H.out"'.
 
 
 *geometry* driver: auto-detecting
@@ -586,33 +586,34 @@ Package hyperref Info: Link coloring OFF on input line 37.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<W-Logo_Purple_RGB.png, id=30, 108.405pt x 72.9927pt>
-File: W-Logo_Purple_RGB.png Graphic file (type png)
-<use W-Logo_Purple_RGB.png>
-Package pdftex.def Info: W-Logo_Purple_RGB.png  used on input line 41.
+<2.1/W-Logo_Purple_RGB.png, id=51, 108.405pt x 72.9927pt>
+File: 2.1/W-Logo_Purple_RGB.png Graphic file (type png)
+<use 2.1/W-Logo_Purple_RGB.png>
+Package pdftex.def Info: 2.1/W-Logo_Purple_RGB.png  used on input line 41.
 (pdftex.def)             Requested size: 85.3548pt x 57.47536pt.
 [1
 
-{C:/Users/dinhj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./W-Logo_Pur
-ple_RGB.png>]
+{C:/Users/dinhj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./2.1/W-Logo
+_Purple_RGB.png>]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 62.
 
-<Spice/Spice Sim Sweep.png, id=42, 1438.6247pt x 729.47531pt>
-File: Spice/Spice Sim Sweep.png Graphic file (type png)
-<use Spice/Spice Sim Sweep.png>
-Package pdftex.def Info: Spice/Spice Sim Sweep.png  used on input line 74.
+<2.1/Spice/Spice Sim Sweep.png, id=63, 1438.6247pt x 729.47531pt>
+File: 2.1/Spice/Spice Sim Sweep.png Graphic file (type png)
+<use 2.1/Spice/Spice Sim Sweep.png>
+Package pdftex.def Info: 2.1/Spice/Spice Sim Sweep.png  used on input line 74.
 (pdftex.def)             Requested size: 256.0748pt x 129.84174pt.
-<ID vs VGS Sweep.png, id=43, 1440.88312pt x 736.25063pt>
-File: ID vs VGS Sweep.png Graphic file (type png)
-<use ID vs VGS Sweep.png>
-Package pdftex.def Info: ID vs VGS Sweep.png  used on input line 75.
+<2.1/ID vs VGS Sweep.png, id=64, 1440.88312pt x 736.25063pt>
+File: 2.1/ID vs VGS Sweep.png Graphic file (type png)
+<use 2.1/ID vs VGS Sweep.png>
+Package pdftex.def Info: 2.1/ID vs VGS Sweep.png  used on input line 75.
 (pdftex.def)             Requested size: 256.0748pt x 130.84549pt.
-<2N7000 Transistor Loaded.jpg, id=44, 2276.505pt x 1044.90375pt>
-File: 2N7000 Transistor Loaded.jpg Graphic file (type jpg)
-<use 2N7000 Transistor Loaded.jpg>
-Package pdftex.def Info: 2N7000 Transistor Loaded.jpg  used on input line 80.
+<2.1/2N7000 Transistor Loaded.jpg, id=65, 2276.505pt x 1044.90375pt>
+File: 2.1/2N7000 Transistor Loaded.jpg Graphic file (type jpg)
+<use 2.1/2N7000 Transistor Loaded.jpg>
+Package pdftex.def Info: 2.1/2N7000 Transistor Loaded.jpg  used on input line 8
+0.
 (pdftex.def)             Requested size: 512.1496pt x 235.07726pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 69--82
@@ -627,8 +628,8 @@ been already used, duplicate ignored
 l.83 	\newpage
                [1
 
- <./Spice/Spice Sim Sweep.png> <./ID vs VGS Sweep.png> <./2N7000 Transistor Loa
-ded.jpg>]
+ <./2.1/Spice/Spice Sim Sweep.png> <./2.1/ID vs VGS Sweep.png> <./2.1/2N7000 Tr
+ansistor Loaded.jpg>]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 85.
@@ -640,10 +641,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
                    \relax 
 l.101 		\subfloat
                  [$V_{GS}$ vs $I_D$ Graph]{\includegraphics[width=9cm]{V_GS ...
-<V_GS vs I_D Graph.png, id=62, 664.4825pt x 410.53375pt>
-File: V_GS vs I_D Graph.png Graphic file (type png)
-<use V_GS vs I_D Graph.png>
-Package pdftex.def Info: V_GS vs I_D Graph.png  used on input line 101.
+<2.1/V_GS vs I_D Graph.png, id=83, 664.4825pt x 410.53375pt>
+File: 2.1/V_GS vs I_D Graph.png Graphic file (type png)
+<use 2.1/V_GS vs I_D Graph.png>
+Package pdftex.def Info: 2.1/V_GS vs I_D Graph.png  used on input line 101.
 (pdftex.def)             Requested size: 256.0748pt x 158.20946pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
@@ -652,10 +653,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
                    \relax 
 l.102 		\subfloat
                  [Lab 2 2-2A-I Table]{\includegraphics[width=9cm]{Lab 2 2-2A...
-<Lab 2 2-2A-I Table.png, id=63, 380.92313pt x 258.21469pt>
-File: Lab 2 2-2A-I Table.png Graphic file (type png)
-<use Lab 2 2-2A-I Table.png>
-Package pdftex.def Info: Lab 2 2-2A-I Table.png  used on input line 102.
+<2.1/Lab 2 2-2A-I Table.png, id=84, 380.92313pt x 258.21469pt>
+File: 2.1/Lab 2 2-2A-I Table.png Graphic file (type png)
+<use 2.1/Lab 2 2-2A-I Table.png>
+Package pdftex.def Info: 2.1/Lab 2 2-2A-I Table.png  used on input line 102.
 (pdftex.def)             Requested size: 256.0748pt x 173.59pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
@@ -664,80 +665,129 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.3
                    \relax 
 l.107 		\subfloat
                  [$I_D$ vs $V_DS$]{\includegraphics[width=9cm]{I_D vs V_DS}}
-<I_D vs V_DS.png, id=64, 602.25pt x 372.39125pt>
-File: I_D vs V_DS.png Graphic file (type png)
-<use I_D vs V_DS.png>
-Package pdftex.def Info: I_D vs V_DS.png  used on input line 107.
+<2.1/I_D vs V_DS.png, id=85, 602.25pt x 372.39125pt>
+File: 2.1/I_D vs V_DS.png Graphic file (type png)
+<use 2.1/I_D vs V_DS.png>
+Package pdftex.def Info: 2.1/I_D vs V_DS.png  used on input line 107.
 (pdftex.def)             Requested size: 256.0748pt x 158.34657pt.
-<Lab 2-2-2A-II Table.png, id=65, 379.4175pt x 389.20406pt>
-File: Lab 2-2-2A-II Table.png Graphic file (type png)
-<use Lab 2-2-2A-II Table.png>
-Package pdftex.def Info: Lab 2-2-2A-II Table.png  used on input line 108.
+<2.1/Lab 2-2-2A-II Table.png, id=86, 379.4175pt x 389.20406pt>
+File: 2.1/Lab 2-2-2A-II Table.png Graphic file (type png)
+<use 2.1/Lab 2-2-2A-II Table.png>
+Package pdftex.def Info: 2.1/Lab 2-2-2A-II Table.png  used on input line 108.
 (pdftex.def)             Requested size: 256.0748pt x 262.68358pt.
-File: I_D vs V_DS.png Graphic file (type png)
-<use I_D vs V_DS.png>
-Package pdftex.def Info: I_D vs V_DS.png  used on input line 113.
+File: 2.1/I_D vs V_DS.png Graphic file (type png)
+<use 2.1/I_D vs V_DS.png>
+Package pdftex.def Info: 2.1/I_D vs V_DS.png  used on input line 113.
 (pdftex.def)             Requested size: 256.0748pt x 158.34657pt.
-File: Lab 2-2-2A-II Table.png Graphic file (type png)
-<use Lab 2-2-2A-II Table.png>
-Package pdftex.def Info: Lab 2-2-2A-II Table.png  used on input line 114.
+File: 2.1/Lab 2-2-2A-II Table.png Graphic file (type png)
+<use 2.1/Lab 2-2-2A-II Table.png>
+Package pdftex.def Info: 2.1/Lab 2-2-2A-II Table.png  used on input line 114.
 (pdftex.def)             Requested size: 256.0748pt x 262.68358pt.
-<Screenshot 2024-07-31 035815.png, id=66, 378.66469pt x 390.70969pt>
-File: Screenshot 2024-07-31 035815.png Graphic file (type png)
-<use Screenshot 2024-07-31 035815.png>
-Package pdftex.def Info: Screenshot 2024-07-31 035815.png  used on input line 1
-19.
+<2.1/Screenshot 2024-07-31 035815.png, id=87, 378.66469pt x 390.70969pt>
+File: 2.1/Screenshot 2024-07-31 035815.png Graphic file (type png)
+<use 2.1/Screenshot 2024-07-31 035815.png>
+Package pdftex.def Info: 2.1/Screenshot 2024-07-31 035815.png  used on input li
+ne 119.
 (pdftex.def)             Requested size: 256.0748pt x 264.2244pt.
-<chart.png, id=67, 602.25pt x 372.39125pt>
-File: chart.png Graphic file (type png)
-<use chart.png>
-Package pdftex.def Info: chart.png  used on input line 120.
+<2.1/chart.png, id=88, 602.25pt x 372.39125pt>
+File: 2.1/chart.png Graphic file (type png)
+<use 2.1/chart.png>
+Package pdftex.def Info: 2.1/chart.png  used on input line 120.
 (pdftex.def)             Requested size: 256.0748pt x 158.34657pt.
 
-[2 <./V_GS vs I_D Graph.png> <./Lab 2 2-2A-I Table.png> <./I_D vs V_DS.png> <./
-Lab 2-2-2A-II Table.png>] [3 <./Screenshot 2024-07-31 035815.png> <./chart.png>
-]
-<Theoretical Calculation of Ideal Diode.jpg, id=96, 518.93875pt x 422.57875pt>
-File: Theoretical Calculation of Ideal Diode.jpg Graphic file (type jpg)
-<use Theoretical Calculation of Ideal Diode.jpg>
-Package pdftex.def Info: Theoretical Calculation of Ideal Diode.jpg  used on in
-put line 128.
-(pdftex.def)             Requested size: 483.69684pt x 393.90334pt.
- [4
+[2 <./2.1/V_GS vs I_D Graph.png> <./2.1/Lab 2 2-2A-I Table.png> <./2.1/I_D vs V
+_DS.png> <./2.1/Lab 2-2-2A-II Table.png>] [3 <./2.1/Screenshot 2024-07-31 03581
+5.png> <./2.1/chart.png>]
 
- <./Theoretical Calculation of Ideal Diode.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 124.
+
+<2.2/SpiceSim.png, id=117, 897.3525pt x 660.4675pt>
+File: 2.2/SpiceSim.png Graphic file (type png)
+<use 2.2/SpiceSim.png>
+Package pdftex.def Info: 2.2/SpiceSim.png  used on input line 130.
+(pdftex.def)             Requested size: 256.0748pt x 188.46698pt.
+<2.2/CircuitImage.jpg, id=118, 3035.34pt x 4047.12pt>
+File: 2.2/CircuitImage.jpg Graphic file (type jpg)
+<use 2.2/CircuitImage.jpg>
+Package pdftex.def Info: 2.2/CircuitImage.jpg  used on input line 135.
+(pdftex.def)             Requested size: 170.71652pt x 227.56348pt.
+<2.2/VoltageReading.jpg, id=119, 3035.34pt x 4047.12pt>
+File: 2.2/VoltageReading.jpg Graphic file (type jpg)
+<use 2.2/VoltageReading.jpg>
+Package pdftex.def Info: 2.2/VoltageReading.jpg  used on input line 136.
+(pdftex.def)             Requested size: 170.71652pt x 227.56348pt.
+[4
+
+ <./2.2/SpiceSim.png> <./2.2/CircuitImage.jpg> <./2.2/VoltageReading.jpg>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 140.
+
+[5]
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.-1.
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.161 		\subfloat
+                 [\centering Lab Design   Calculations]{\includegraphics[wid...
+<2.1/Theoretical Calculation of Ideal Diode.jpg, id=137, 518.93875pt x 422.5787
+5pt>
+File: 2.1/Theoretical Calculation of Ideal Diode.jpg Graphic file (type jpg)
+<use 2.1/Theoretical Calculation of Ideal Diode.jpg>
+Package pdftex.def Info: 2.1/Theoretical Calculation of Ideal Diode.jpg  used o
+n input line 161.
+(pdftex.def)             Requested size: 483.69684pt x 393.90334pt.
+[6
+
+ <./2.1/Theoretical Calculation of Ideal Diode.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
 
-<IMG_20240705_171509323.jpg, id=104, 4095.3pt x 3083.52pt>
-File: IMG_20240705_171509323.jpg Graphic file (type jpg)
-<use IMG_20240705_171509323.jpg>
-Package pdftex.def Info: IMG_20240705_171509323.jpg  used on input line 138.
+<2.1/IMG_20240705_171509323.jpg, id=145, 4095.3pt x 3083.52pt>
+File: 2.1/IMG_20240705_171509323.jpg Graphic file (type jpg)
+<use 2.1/IMG_20240705_171509323.jpg>
+Package pdftex.def Info: 2.1/IMG_20240705_171509323.jpg  used on input line 171
+.
 (pdftex.def)             Requested size: 569.05515pt x 428.44336pt.
-[5 <./IMG_20240705_171509323.jpg>] (Lab_2.1_Jason_Henry.aux)
+[7 <./2.1/IMG_20240705_171509323.jpg>] (BEE331 Lab 2 Jason T Henry H.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 
 
-Package rerunfilecheck Warning: File `Lab_2.1_Jason_Henry.out' has changed.
+Package rerunfilecheck Warning: File `"BEE331 Lab 2 Jason T Henry H".out' has c
+hanged.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `Lab_2.1_Jason_Henry.out':
-(rerunfilecheck)             Before: 64CC74860ECEDC77BFB23EDBAA0FC285;1138
-(rerunfilecheck)             After:  CCF474C135ABF1A686B74088D75530DA;1141.
+Package rerunfilecheck Info: Checksums for `"BEE331 Lab 2 Jason T Henry H".out'
+:
+(rerunfilecheck)             Before: E39D18B3435E0572B7C11D0A0040BC8F;2099
+(rerunfilecheck)             After:  EA77E32C830D056A5567807A830F4555;2109.
  ) 
 Here is how much of TeX's memory you used:
- 14712 strings out of 474486
- 239406 string characters out of 5743755
+ 14780 strings out of 474486
+ 241517 string characters out of 5743755
  1936542 words of memory out of 5000000
- 36780 multiletter control sequences out of 15000+600000
+ 36836 multiletter control sequences out of 15000+600000
  566368 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,13n,107p,359b,525s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,13n,107p,484b,525s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{chapter*.13} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.12} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.9} has been referenced but does not exist,
+ replaced by a fixed one
+
 
 pdfTeX warning (dest): name{chapter*.8} has been referenced but does not exist,
  replaced by a fixed one
@@ -761,9 +811,9 @@ ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/dinhj/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/dinhj/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Lab_2.1_Jason_Henry.pdf (6 pages, 1380220 bytes).
+Output written on "BEE331 Lab 2 Jason T Henry H.pdf" (8 pages, 2429775 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 117 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 234 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
